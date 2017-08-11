@@ -1,0 +1,27 @@
+{
+  "name": "booklistjs",
+  "version": "1.0.0",
+  "description": "get random or list of book/s",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veenapilli/BookListJS.git"
+  },
+  "keywords": [
+    "random",
+    "books",
+    "list"
+  ],
+  "author": "Veena Pilli <veenapilli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veenapilli/BookListJS/issues"
+  },
+  "homepage": "https://github.com/veenapilli/BookListJS#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
